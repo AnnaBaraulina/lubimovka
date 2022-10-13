@@ -1,0 +1,11 @@
+/* Подключить сброс стилей */
+@import url(../vendor/normalize.css);
+
+/* Подключить шрифты */
+@import url(../vendor/fonts/fonts.css);
+
+/* Подключить стили блока body */
+@import url(../blocks/body/body.css);
+
+/* Подключить стили блока container */
+@import url(../blocks/container/container.css);
